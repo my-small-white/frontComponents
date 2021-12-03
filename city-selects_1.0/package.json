@@ -1,0 +1,15 @@
+{
+    "id": "city-selects",
+    "name": "cityselect",
+    "version": "1.0",
+    "description": "主要实现省级城市和二级城市选择 单选 全选 反选",
+    "keywords": [
+        "城市选择"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
